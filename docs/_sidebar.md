@@ -1,12 +1,16 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [ETAPA CASE -MINDCARRREIRAS 2025](README.md)
 
-- **Base**
-  - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
-    - [1.1. Design Sprint](/docs/Base/1.1.DesignSprint.md)
-    - [1.2. Artefato Generalista](/docs/Base/1.2.ArtefatoGeneralista.md)
-    - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
-    - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
+- **Atividade**
+  - [1. Análise de concorrência](./atividade/analise-concorrencia.md)
+    - [1.1. Mindsight](./foco1/mindsight.md)
+    - [1.2. Análise do termo "ATS"](./foco1/analise_termo.md)
+    - [1.3. Listagem de Concorrentes](./foco1/lista_concorrentes.md)
+      - [1.3.1. SEMRUSH](./concorrentes/semrush.md)
+      - [1.3.2. Manual](./concorrentes/manual.md)
+    - [1.4. Análise dos Concorrentes](./foco1/lista_concorrentes.md)
+    - [1.5. Análise SWOT](./foco1/swot.md)
+  - [2. Desenvolvimento de um Roadmap](./atividade/obj_estrategicos.md)
+  - [3. Definição de Objetivos Estratégicos](./atividade/roadmap.md)
+  
