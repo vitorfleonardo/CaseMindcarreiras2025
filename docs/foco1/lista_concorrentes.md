@@ -1,4 +1,5 @@
 # Lista de concorrentes
+
 | N | Concorrentes | Link do website | Origem |
 | :-: | :-: | :-: | :-: |
 | 1 | abler | [Link](https://abler.com.br/campanhas/recrutamento-e-selecao) | Anúncio patrocinado |
@@ -48,21 +49,20 @@
 | 45 | Hirex | [Link](https://gethirex.com/products) | [1. The 5 best applicant tracking systems by Coderspace](https://coderspace.io/en/blog/best-applicant-tracking-systems-ats-in-2024/) |
 | 46 | ZipRecruiter | [Link](https://www.ziprecruiter.com/ats-partners) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
 | 47 | Paycor | [Link](https://www.paycor.com/hcm-software/recruiting-software/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 47 | Neogov | [Link](https://www.neogov.com/products/insight) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 48 | Crelate | [Link](https://www.crelate.com/recruit/applicant-tracking-system) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 49 | Proliant | [Link](https://www.proliant.com/applicant-tracking-recruitment) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 50 | Recruiterflow | [Link](https://recruiterflow.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 51 | BrightMove | [Link](https://brightmove.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 52 | Factorial | [Link](https://factorialhr.co.uk/applicant-tracking-system) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 53 | Elmo software | [Link](https://elmosoftware.com.au/products/recruitment) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 54 | Talos ATS | [Link](https://talos360.co.uk/ats/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 55 | ATS OnDemand | [Link](https://power.atsondemand.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 56 | webrecruit | [Link](https://www.webrecruit.co/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 57 | Cvminder | [Link](https://cvminder.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 58 | Minotaur ATS | [Link](https://minotaurats.io/pt/inicio-2/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 59 | Octo | [Link](https://hireocto.com/website_experience) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 60 | AXLR8 | [Link](https://staffing.axlr8.com/applicant-tracking-systems/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 61 | Hireserve | [Link](https://hireserve.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 62 | Jobitus | [Link](https://jobitus.com/index) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 62 | Healthcare ATS | [Link](https://jobitus.com/index) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
-| 63 | Gupy | [Link](https://info.gupy.io/lm/midia/agendar-demonstracao) | [1. O que é ATS?](https://www.gupy.io/blog/ats#como-escolher-um-ats-) |
+| 48 | Neogov | [Link](https://www.neogov.com/products/insight) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 49 | Crelate | [Link](https://www.crelate.com/recruit/applicant-tracking-system) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 50 | Proliant | [Link](https://www.proliant.com/applicant-tracking-recruitment) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 51 | Recruiterflow | [Link](https://recruiterflow.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 52 | BrightMove | [Link](https://brightmove.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 53 | Factorial | [Link](https://factorialhr.co.uk/applicant-tracking-system) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 54 | Elmo software | [Link](https://elmosoftware.com.au/products/recruitment) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 55 | Talos ATS | [Link](https://talos360.co.uk/ats/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 56 | ATS OnDemand | [Link](https://power.atsondemand.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 57 | webrecruit | [Link](https://www.webrecruit.co/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 58 | Cvminder | [Link](https://cvminder.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 59 | Minotaur ATS | [Link](https://minotaurats.io/pt/inicio-2/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 60 | Octo | [Link](https://hireocto.com/website_experience) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 61 | AXLR8 | [Link](https://staffing.axlr8.com/applicant-tracking-systems/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 62 | Hireserve | [Link](https://hireserve.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 63 | Jobitus | [Link](https://jobitus.com/index) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+| 64 | Healthcare ATS | [Link](https://jobitus.com/index) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
