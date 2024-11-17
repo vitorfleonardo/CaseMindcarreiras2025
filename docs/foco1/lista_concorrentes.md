@@ -1,4 +1,4 @@
-# Lista de concorrentes
+# Coleta de concorrentes
 
 | N | Concorrentes | Link do website | Origem |
 | :-: | :-: | :-: | :-: |
