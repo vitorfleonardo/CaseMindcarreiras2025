@@ -51,6 +51,8 @@
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Zoho](https://www.zoho.com/pt-br/recruit/applicant-tracking-system.html), 2024.</p></font>
 
+## Histórico de versão 
+
 | Versão | Data | Descrição | Autor(es) |
 | :-: | :-: | :-: | :-: |
 | `1.0` | 10/11/2024 | Criação do artefato de "Análise dos Concorrentes" | Vitor Feijó |
