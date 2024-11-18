@@ -49,7 +49,7 @@
 
 ## Autoridade
 
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Premios do Zoho.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 9:</b> Premios do Zoho.</p></font>
 
 ![Premios do Zoho](../assets/zoho/premios-zoho.png)
 

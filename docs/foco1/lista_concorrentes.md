@@ -1,5 +1,18 @@
 # Coleta de concorrentes
 
+## Introdução
+
+Este artefato apresenta uma listagem de concorrentes relevantes no segmento de sistemas de rastreamento de candidatos e essa coleta foi realizada com o objetivo de mapear o cenário competitivo.
+
+## Metodologia
+
+A metodologia aplicada para a elaboração deste artefato seguiu as etapas descritas abaixo:
+
+1. **Coleta de Dados:** A coleta de informações foi realizada a partir de pesquisas em ferramentas online, como mecanismos de busca, redes sociais e plataformas especializadas. Foram utilizados termos-chave relacionados ao segmento para identificar possíveis concorrentes. E foram encontrados sites que ranqueavam sistemas de ratreamento de candidatos.
+2. **Organização em Tabela:** Os concorrentes identificados foram organizados em uma tabela contendo os seguintes campos: nome do concorrente, link para o website e origem da informação. Na aba origem há a citação do sistema em sites de referência.
+
+## Resultados
+
 | N | Concorrentes | Link do website | Origem |
 | :-: | :-: | :-: | :-: |
 | 1 | abler | [Link](https://abler.com.br/campanhas/recrutamento-e-selecao) | Anúncio patrocinado |
@@ -66,3 +79,22 @@
 | 62 | Hireserve | [Link](https://hireserve.com/) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
 | 63 | Jobitus | [Link](https://jobitus.com/index) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
 | 64 | Healthcare ATS | [Link](https://jobitus.com/index) | [1. Applicant Tracking Software review by Capterra](https://www.capterra.com/applicant-tracking-software/) |
+
+## Bibliografia
+
+></a> 1. Top applicant tracking systems by Google. Disponível em: [https://github.com/vitorfleonardo/case/blob/main/docs/assets/manual-ats.png](https://github.com/vitorfleonardo/case/blob/main/docs/assets/manual-ats.png). Acesso em: 14 nov. 2024. <br/>
+></a> 2. The Best Applicant Tracking Systems Of 2024 by Forbes. Disponível em: [https://www.forbes.com/advisor/business/best-applicant-tracking-systems/]. Acesso em: 14 nov. 2024. <br/>
+></a> 3. The 9 Best Applicant Tracking Systems by Zapier. Disponível em: [https://zapier.com/blog/best-applicant-tracking-systems/](https://zapier.com/blog/best-applicant-tracking-systems/). Acesso em: 14 nov. 2024. <br/>
+></a> 4. Applicant Tracking Systems (ATS) Reviews and Rating by Gartner. Disponível em: [https://www.gartner.com/reviews/market/applicant-tracking-systems](https://www.gartner.com/reviews/market/applicant-tracking-systems). Acesso em: 14 nov. 2024. <br/>
+></a> 5. Applicant Tracking Software review by Capterra. Disponível em: [https://www.capterra.com/applicant-tracking-software/](https://www.capterra.com/applicant-tracking-software/). Acesso em: 14 nov. 2024. <br/>
+></a> 6. 10 melhores softwares de sistema de rastreamento de candidatos (ATS) em 2024 by Clickup. Disponível em: [https://clickup.com/pt-BR/blog/69058/sistema-de-rastreamento-de-candidatos](https://clickup.com/pt-BR/blog/69058/sistema-de-rastreamento-de-candidatos). Acesso em: 14 nov. 2024. <br/>
+></a> 7. The 18 Best ATS Systems Reviewed & Compared by Experts. Disponível em: (https://www.selectsoftwarereviews.com/buyer-guide/applicant-tracking-systems)[https://www.selectsoftwarereviews.com/buyer-guide/applicant-tracking-systems]. Acesso em: 14 nov. 2024. <br/>
+></a> 8. 10 Best Applicant Tracking Systems Shortlist by People Managing People. Disponível em: [https://peoplemanagingpeople.com/tools/best-applicant-tracking-systems/](https://peoplemanagingpeople.com/tools/best-applicant-tracking-systems/). Acesso em: 14 nov. 2024. <br/>
+></a> 9. The 5 Best Applicant Tracking Systems by Coderspace. Disponível em: [https://coderspace.io/en/blog/best-applicant-tracking-systems-ats-in-2024/](https://coderspace.io/en/blog/best-applicant-tracking-systems-ats-in-2024/). Acesso em: 14 nov. 2024. <br/>
+
+## Histórico de versão
+
+| Versão | Data | Descrição | Autor(es) |
+| :-: | :-: | :-: | :-: |
+| `1.0` | 08/11/2024 | Criação do artefato de "Coleta de Concorrentes" | Vitor Feijó |
+| `1.1` | 14/11/2024 | Preenchimento do artefato | Vitor Feijó |
