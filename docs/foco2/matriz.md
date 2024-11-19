@@ -73,6 +73,7 @@ A elaboração da Matriz de Esforço x Impacto seguiu os passos descritos abaixo
 ></a> 1. SITEWARE. Matriz de esforço e impacto: o que é e como fazer? Siteware Blog. Disponível em: [https://www.siteware.com.br/blog/metodologias/matriz-de-esforco-e-impacto/](https://www.siteware.com.br/blog/metodologias/matriz-de-esforco-e-impacto/). Acesso em: 17 nov. 2024.
 
 ## Histórico de versão
+
 | Versão | Data | Descrição | Autor(es) |
 | :-: | :-: | :-: | :-: |
 | `1.0` | 10/11/2024 | Criação do artefato de three-level scale | Vitor Feijó |
