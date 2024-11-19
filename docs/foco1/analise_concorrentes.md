@@ -27,7 +27,7 @@ A seleção e organização dos concorrentes seguiram os passos descritos abaixo
 | N | Concorrentes | Link para página de análise de concorrentes | Feito/Não feito |
 | :-: | :-: | :-: | :-: |
 | 1 | abler | [Análise](../concorrentes/abler.md) | Não feito |
-| 2 | Zoho | [Análise](../concorrentes/zoho.md) | Feito |
+| 2 | Zoho | [Análise](https://github.com/vitorfleonardo/case/blob/main/docs/concorrentes/zoho.md) | Feito |
 | 3 | breezy | [Análise](../concorrentes/breezy.md) | Não feito  |
 | 4 | Quickin | [Análise](../concorrentes/quickin.md) | Não feito |
 | 5 | Recruitee | [Análise](../concorrentes/recruitee.md) | Não feito  |
@@ -38,7 +38,7 @@ A seleção e organização dos concorrentes seguiram os passos descritos abaixo
 | 10 | Bullhorn | [Análise](../concorrentes/bullhorn.md) | Não feito |
 | 11 | VidCruiter | [Análise](../concorrentes/vidcruiter.md) | Não feito |
 | 12 | Bizneo | [Análise](../concorrentes/bizneo.md) | Não feito |
-| 13 | bambooHR | [Análise](../concorrentes/bamboohr.md) | Feito|
+| 13 | bambooHR | [Análise](https://github.com/vitorfleonardo/case/blob/main/docs/concorrentes/bamboohr.md) | Feito|
 | 14 | Workable | [Análise](../concorrentes/workable.md) | Não feito |
 | 15 | Pinpoint | [Análise](../concorrentes/pinpoint.md) | Não feito |
 | 16 | Teamtailor | [Análise](../concorrentes/teamtailor.md) | Não feito |
@@ -46,7 +46,7 @@ A seleção e organização dos concorrentes seguiram os passos descritos abaixo
 | 18 | Monday.com | [Análise](../concorrentes/monday_com.md) | Não feito |
 | 19 | Jobsoid | [Análise](../concorrentes/jobsoid.md) | Não feito |
 | 20 | Avature | [Análise](../concorrentes/avature.md) | Não feito |
-| 21 | Greenhouse | [Análise](../concorrentes/greenhouse.md) | Feito|
+| 21 | Greenhouse | [Análise](https://github.com/vitorfleonardo/case/blob/main/docs/concorrentes/greenhouse.md) | Feito|
 | 22 | JazzHR | [Análise](../concorrentes/jazzhr.md) | Não feito |
 | 23 | iCIMS | [Análise](../concorrentes/icims.md) | Não feito |
 | 24 | ClearCompany | [Análise](../concorrentes/clearcompany.md) | Não feito |
