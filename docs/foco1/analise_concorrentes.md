@@ -20,7 +20,7 @@ A seleção e organização dos concorrentes seguiram os passos descritos abaixo
 
 | Qtd Total de Concorrentes | Qtd de Concorrentes analisados | Porcentagem analisada
 | :-: | :-: | :-: | 
-| 64 | 06 | 9,38% |
+| 64 | 03 | 4,69% |
 
 <font size="3"><p><b>Tabela 2:</b> Concorrentes analisados e não analisados.</p></font>
 
@@ -39,7 +39,7 @@ A seleção e organização dos concorrentes seguiram os passos descritos abaixo
 | 11 | VidCruiter | [Análise](../concorrentes/vidcruiter.md) | Não feito |
 | 12 | Bizneo | [Análise](../concorrentes/bizneo.md) | Não feito |
 | 13 | bambooHR | [Análise](../concorrentes/bamboohr.md) | Feito|
-| 14 | Workable | [Análise](../concorrentes/workable.md) | Feito |
+| 14 | Workable | [Análise](../concorrentes/workable.md) | Não feito |
 | 15 | Pinpoint | [Análise](../concorrentes/pinpoint.md) | Não feito |
 | 16 | Teamtailor | [Análise](../concorrentes/teamtailor.md) | Não feito |
 | 17 | Monday | [Análise](../concorrentes/monday.md) | Não feito |
@@ -47,8 +47,8 @@ A seleção e organização dos concorrentes seguiram os passos descritos abaixo
 | 19 | Jobsoid | [Análise](../concorrentes/jobsoid.md) | Não feito |
 | 20 | Avature | [Análise](../concorrentes/avature.md) | Não feito |
 | 21 | Greenhouse | [Análise](../concorrentes/greenhouse.md) | Feito|
-| 22 | JazzHR | [Análise](../concorrentes/jazzhr.md) | Feito |
-| 23 | iCIMS | [Análise](../concorrentes/icims.md) | Feito |
+| 22 | JazzHR | [Análise](../concorrentes/jazzhr.md) | Não feito |
+| 23 | iCIMS | [Análise](../concorrentes/icims.md) | Não feito |
 | 24 | ClearCompany | [Análise](../concorrentes/clearcompany.md) | Não feito |
 | 25 | MightyRecruiter | [Análise](../concorrentes/mightyrecruiter.md) | Não feito |
 | 26 | Recooty | [Análise](../concorrentes/recooty.md) | Não feito |

@@ -46,7 +46,7 @@ Utilizando a ferramenta do Semrush, foram seguidos os seguintes passos:
 
 ## Bibliografia
 
-></a> 1. SEMRUSH. Semrush: Ferramenta de Marketing Digital. Disponível em: [https://pt.semrush.com/projects/](https://pt.semrush.com/projects/). Acesso em: 18 nov. 2024.
+></a> 1. SEMRUSH. Semrush: Ferramenta de Marketing Digital. Disponível em: [https://pt.semrush.com/projects/](https://pt.semrush.com/projects/). Acesso em: 10 nov. 2024.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) |
