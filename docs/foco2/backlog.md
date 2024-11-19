@@ -2,9 +2,28 @@
 
 ## Introdução
 
+Este artefato apresenta o Backlog de Requisitos, uma tabela organizada contendo 88 requisitos elicitados. O backlog é uma ferramenta fundamental para documentar e gerenciar os requisitos de forma estruturada, garantindo que todos os elementos necessários ao sucesso do sistema estejam rastreados e organizados.
+
 ## Metodologia
 
+A criação deste backlog seguiu uma abordagem sistemática e fundamentada, descrita nas etapas abaixo:
+
+1. Cada requisito foi documentado com um identificador único para facilitar a organização.
+2. O backlog foi preenchido com os requisitos provenientes das técnicas de [Análise Documental](../foco1/mindsight.md) e [Análise dos Concorrentes](../foco1/analise_concorrentes.md).
+3. A origem de cada requisito foi especificada para evidenciar se ele foi derivado da análise documental ou da análise de concorrentes. 
+
+## Legenda para tabela de requisitos
+
+1. **Identificador:** Código único para cada requisito, usado para identificação e referência rápida, onde RE significa Requisito Elicitado.
+2. **Requisito:** Descrição do que o sistema deve realizar.
+3. **Tipo:** Qual o tipo de requisito, onde RF significa Requisito Funcional e RNF significa Requisito Não Funcional.
+4. **Implementado:** se foi implementado pelo ATS da Mindsight ou não.
+5. **Origem:** indica de maniera rastreável de onde o requisito é proveniente.
+
 ## Resultados
+
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Backlog.</p></font>
+
 | Identificador do requisito | Requisito                                                                                                     | Tipo | Implementado | Origem                                |
 |:-:|:-:|:-:|:-:|:-:|
 | RE-001                     | O sistema deve permitir o cadastro de vagas, incluindo informações como Nome da vaga, quantidade de posições, quantos dias se deseja finalizar a vaga, faixa salarial, cargo, empresa e departamento. | RF   | Sim          | [AD](../foco1/mindsight.md)           |
@@ -96,15 +115,15 @@
 | RE-087                     | O sistema deve gerenciar modelos de assinatura para contratos e outros documentos legais. | RF   | Não          | [AC Bamboohr](../concorrentes/bamboohr.md)   |
 | RE-088                     | O sistema deve centralizar documentos importantes como manuais da empresa, políticas de reembolso e resumos de benefícios. | RF   | Não          | [AC Bamboohr](../concorrentes/bamboohr.md)   |
 
-
-
+<font size="3"><p style="text-align: center"><b>Autor 1:</b> Vitor Feijó, 2024.</p></font>
 
 ## Bibliografia
 
-></a> 1. Software Requirements Third Edition. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665. Disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf)
+></a> 1. PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de Software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2021. <br/>
+></a> 2. CARVALHO, Bernardo Vasconcelos de; MELLO, Carlos Henrique Pereira. Aplicação do método ágil Scrum no desenvolvimento de produtos de software em uma pequena empresa de base tecnológica. Gestão & Produção, v. 24, n. 3, p. 500-513, 2017. Disponível em: [https://www.scielo.br/j/gp/a/34xH953TFwLPYDB9BYdJghL/](https://www.scielo.br/j/gp/a/34xH953TFwLPYDB9BYdJghL/). Acesso em: 16 nov. 2024.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) |
 | :-: | :-: | :-: | :-: |
-| `1.0` | 10/11/2024 | Criação do artefato de "Análise Documental" | Vitor Feijó |
+| `1.0` | 10/11/2024 | Criação do artefato de "Backlog" | Vitor Feijó |
 | `1.1` | 16/11/2024 | Preenchimento do artefato | Vitor Feijó |

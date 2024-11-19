@@ -12,6 +12,7 @@
   - [2. Desenvolvimento de um Roadmap](./atividade/obj_estrategicos.md)
     - [2.1. Backlog](./foco2/backlog.md)
     - [2.2. Priorização](./foco2/three_level.md)
-    - [2.3. Roadmap](./foco2/roadmap.md)
+    - [2.3. Matriz Esforço x Impacto](./foco2/matriz.md)
+    - [2.4. Roadmap](./foco2/roadmap.md)
   - [3. Definição de Objetivos Estratégicos](./atividade/roadmap.md)
   

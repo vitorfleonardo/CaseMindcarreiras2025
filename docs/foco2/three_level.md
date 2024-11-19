@@ -26,7 +26,9 @@ Também existe uma quarta categoria que diz a respeito de requisitos que podem p
 1. **Identificador:** Código único para cada requisito, usado para identificação e referência rápida, onde RE significa Requisito Elicitado.
 2. **Requisito:** Descrição do que o sistema deve realizar.
 3. **Tipo:** Qual o tipo de requisito, onde RF significa Requisito Funcional e RNF significa Requisito Não Funcional.
-4. **Prioridade:** Prioridade dada pelo usuário, Alta ou Média ou Baixa.
+4. **Implementado:** se foi implementado pelo ATS da Mindsight ou não.
+5. **Origem:** indica de maniera rastreável de onde o requisito é proveniente.
+6. **Prioridade:** Prioridade fornecida por Vitor Feijó, Alta ou Média ou Baixa.
 
 ## Resultados
 
@@ -136,5 +138,5 @@ Também existe uma quarta categoria que diz a respeito de requisitos que podem p
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) |
 | :-: | :-: | :-: | :-: |
-| `1.0` | 08/11/2024 | Criação do artefato de three-level scale | Vitor Feijó |
+| `1.0` | 10/11/2024 | Criação do artefato de three-level scale | Vitor Feijó |
 | `1.1` | 18/11/2024 | Preenchimento do artefato | Vitor Feijó |
