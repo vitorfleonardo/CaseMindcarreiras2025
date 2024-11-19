@@ -1,4 +1,4 @@
-# MINDCARREIRAS 2024
+# MINDCARREIRAS 2025
 
 ## Tecnologia
 
