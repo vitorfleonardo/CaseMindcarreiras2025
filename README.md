@@ -2,7 +2,7 @@
 
 Este case foi feito para a terceira etapa do processo seletivo do Mindcarreiras 2025. O case em si, foi feito e apresentado em 2024 e compõe a seguinte trilha do processo seletivo:
 
-![processo seletivo da Minsight]()
+![processo seletivo da Minsight](https://github.com/vitorfleonardo/CaseMindcarreiras2025/blob/main/docs/assets/etapa.png?raw=true)
 
 ## Tecnologia
 
